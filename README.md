@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SamratThapa99 currently pursuing my Bachelor's Degree on BSc(Hons)Computer Science from Herald College Kathmandu.
+- 👋 Hi, I’m SamratThapa currently pursuing my Bachelor's Degree in BSc(Hons)Computer Science from Herald College Kathmandu.
 - 👀 I’m interested in Sports, UI/UX and Coding
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning the MERN stack
+- I am looking for a frontend internship
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 Interested individuals can contact me through: Samratthapa179@gmail.com
+- 📫 Interested individuals can contact me through: samratthapa179@gmail.com
 
 
 <!---
